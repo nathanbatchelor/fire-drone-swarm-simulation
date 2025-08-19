@@ -133,4 +133,14 @@ This project demonstrates proficiency in:
 
 ---
 
+## 📄 Portfolio Notice
+This repository is for **portfolio demonstration purposes only**. 
+The code showcases advanced Java development skills including multithreading, 
+networking, and real-time systems design.
+
+*This was a collaborative university project - I led development of the scheduling algorithms, 
+fault tolerance systems, and GUI components.*
+
+---
+
 *Built with ☕ and lots of concurrent debugging*
